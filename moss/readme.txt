@@ -1,0 +1,1 @@
+moss -l java -c "Origjava" Orig.java Copy.java
