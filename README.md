@@ -7,7 +7,6 @@
 5. connect-vpn-windows: single click utility to connect vpn
 6. moodle-autologin: logins to moodle. Idk if its useful
 7. webpage-diff-tracker: automated way to track webpage for changes and recieve mail when something changes
-
-
+8. web-scraping: scrape webpage for downloading comics in bulk
 
 **See respective folders for instructions on how to use**
