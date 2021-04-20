@@ -4,6 +4,9 @@
 2. pdfutility: merge pdfs with least possible size I found over all online merger websites. Convert images to pdfs and merge.
 3. Vigenere-cipher: Generate and break vigenere cipher through smart and efficient brute force attack
 4. web-traffic: Generate fake traffic to a particular website. used for DOS attack
+5. connect-vpn-windows: single click utility to connect vpn
+6. moodle-autologin: logins to moodle. Idk if its useful
+7. webpage-diff-tracker: automated way to track webpage for changes and recieve mail when something changes
 
 
 

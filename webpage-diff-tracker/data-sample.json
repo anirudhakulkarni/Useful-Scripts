@@ -1,0 +1,15 @@
+{
+    "from-email":"xxxxx@gmail.com",
+    "to-email":"xxxxxxxxxxx@gmail.com",
+    "from-password":"xxxxxxxxx",
+    "urls":["https://www.cse.iitd.ac.in/~sak/courses/pl/2020-21/index.html",
+        "https://www.cse.iitd.ac.in/~sak/courses/pl/2020-21/header.html",
+        "https://www.cse.iitd.ac.in/~sak/courses/pl/2020-21/timetable.html",
+        "https://www.cse.iitd.ac.in/~sak/courses/pl/2020-21/PL-calendar.html",
+        "https://www.cse.iitd.ac.in/~sak/courses/pl/2020-21/evaluation.html",
+        "https://www.cse.iitd.ac.in/~sak/courses/pl/2020-21/caution.html",
+        "https://www.cse.iitd.ac.in/~sak/courses/pl/2020-21/references.html",
+        "https://www.cse.iitd.ac.in/~sak/courses/pl/2020-21/smlnj-references.html",
+        "https://www.cse.iitd.ac.in/~sak/courses/pl/2020-21/prolog-references.html",
+        "https://www.cse.iitd.ac.in/~sak/courses/pl/2020-21/exam-schedules.html"]
+}
