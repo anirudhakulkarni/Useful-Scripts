@@ -8,5 +8,6 @@
 6. moodle-autologin: logins to moodle. Idk if its useful
 7. webpage-diff-tracker: automated way to track webpage for changes and recieve mail when something changes
 8. web-scraping: scrape webpage for downloading comics in bulk
+9. codeforces-spoj-backup: download all submissions of a user for backup from codeforces and spoj
 
 **See respective folders for instructions on how to use**
