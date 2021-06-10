@@ -9,5 +9,6 @@
 7. webpage-diff-tracker: automated way to track webpage for changes and recieve mail when something changes
 8. web-scraping: scrape webpage for downloading comics in bulk
 9. codeforces-spoj-backup: download all submissions of a user for backup from codeforces and spoj
+10. free-audiobook-downloader: search for audiobook with https://www.audiobookcup.com/ . This has most of the audiobooks. Add the code from console.txt to console and mp3 file will be downloaded.
 
 **See respective folders for instructions on how to use**

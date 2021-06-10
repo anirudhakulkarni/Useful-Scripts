@@ -1,0 +1,5 @@
+const link = document.createElement('a');
+link.href = "https://videos3.audiobookx.com/1421-MP3/BK_HARP_010531.mp3"; // replace this with link from network flow
+link.download = 'some-file-name.mp3';
+document.body.appendChild(link);
+link.click();
