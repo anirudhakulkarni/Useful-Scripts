@@ -1,1 +1,1 @@
-moss -l java -c "Origjava" Orig.java Copy.java
+perl moss.pl -l python -c "Origpython" new_one.py ab.py
